@@ -1,1 +1,1 @@
-Usage => main.py username password host
+Usage => main.py host username password
