@@ -4,9 +4,9 @@ import sys
 import os
 
 
-username = sys.argv[1]
-password = sys.argv[2]
-host = sys.argv[3]
+host = sys.argv[1]
+username  = sys.argv[2]
+password = sys.argv[3]
 
 
 print('Trying credentials against smb...')
